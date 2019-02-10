@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Breakout! by Team Limit Break
 
-You can use the [editor on GitHub](https://github.com/andrewalc/breakout-site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Download!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Insert Download Links Here]
+## Gameplay Trailer:
 
-### Markdown
+[Insert Youtube Link Here]
+
+
+## Screenshots
+
+[Insert Screenshots here]
+
+## Breakout Post Mortem
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andrewalc/breakout-site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Team Limit Break
+- Ryan Teng
+- Riley Nolan
+- Andrew Alcala
+- James Thomas
