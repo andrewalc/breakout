@@ -9,7 +9,7 @@
 
 
 
-## Gameplay Trailer:
+## Gameplay Trailer
 
 [Insert Youtube Link Here]
 
