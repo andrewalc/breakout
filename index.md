@@ -17,8 +17,13 @@
 
 
 ## Screenshots
+![img1](https://cdn.discordapp.com/attachments/224266739842678785/544321892241113088/unknown.png)
+![img2](https://cdn.discordapp.com/attachments/224266739842678785/544322087041499136/unknown.png)
+![img2](https://cdn.discordapp.com/attachments/224266739842678785/544322151902085136/unknown.png)
+![img2](https://cdn.discordapp.com/attachments/224266739842678785/544322230155214853/unknown.png)
+![img2](https://cdn.discordapp.com/attachments/224266739842678785/544322348027740172/unknown.png)
+![img2](https://cdn.discordapp.com/attachments/224266739842678785/544322603171577885/unknown.png)
 
-[Insert Screenshots here]
 
 
 
