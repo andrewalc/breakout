@@ -11,7 +11,7 @@
 
 ## Gameplay Trailer
 
-[Insert Youtube Link Here]
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=LsrU3_yjI_I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
