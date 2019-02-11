@@ -29,7 +29,7 @@
 
 
 ## Breakout Post Mortem
-https://docs.google.com/document/d/1ubpKnUbHK-tyX7K-OE4B7ffNU43feic55PtJ6TDQDP4/edit?usp=sharing
+[https://docs.google.com/document/d/1ubpKnUbHK-tyX7K-OE4B7ffNU43feic55PtJ6TDQDP4/edit?usp=sharing]
 
 ### Team Limit Break
 - Ryan Teng
