@@ -7,7 +7,8 @@
 [Click here to download!](https://drive.google.com/file/d/1jlNWuje4jcijt5rmu3dSF0LlhrX_3XHd/view?usp=sharing)
 
 
-
+## Documentation
+[Click here for documentation](Docs/html/index.html)
 
 ## Gameplay Trailer
 
