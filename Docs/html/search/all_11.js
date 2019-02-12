@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['ramp',['ramp',['../union_s_d_l___haptic_effect.html#a1d32ef4c2d1cc89dc938b392f6ad81bd',1,'SDL_HapticEffect']]],
+  ['rate_5fincr',['rate_incr',['../struct_s_d_l___audio_c_v_t.html#ad886122c23a6673073baace31bff3b6c',1,'SDL_AudioCVT']]],
+  ['refcount',['refcount',['../struct_s_d_l___surface.html#a03d10628a359c0674f5ceffd574f1641',1,'SDL_Surface']]],
+  ['refresh_5frate',['refresh_rate',['../struct_s_d_l___display_mode.html#ad1b5783c9b292ebf24ad4e0e7a98e540',1,'SDL_DisplayMode']]],
+  ['render',['render',['../class_ball.html#ae63361e6d8d405feed1fc65458374dd8',1,'Ball::render()'],['../class_brick.html#a8cdd784c07f3f3ea0e0776490167ef95',1,'Brick::render()'],['../class_paddle.html#a63907886f0201ec1d0217a563e23465e',1,'Paddle::render()'],['../class_u_i.html#a2a47c0e8069aaa047a9353d23e970593',1,'UI::render()']]],
+  ['repeat',['repeat',['../struct_s_d_l___keyboard_event.html#a3edac3b36304812d533795c9df4ed4c1',1,'SDL_KeyboardEvent']]],
+  ['resetgame',['resetGame',['../class_game_logic.html#af8b6d3a3d1a1fa93d4adbd2013a13bf6',1,'GameLogic']]],
+  ['resetposition',['resetPosition',['../class_ball.html#a55a7fd1537b0da34f175604528d97831',1,'Ball::resetPosition()'],['../class_paddle.html#ae1ada61985f2991c18b76e11bc7bdfe4',1,'Paddle::resetPosition()']]],
+  ['resolveballbrick',['resolveBallBrick',['../class_collision_manager.html#a297db6d08e8db90b87cf82dda036589b',1,'CollisionManager']]],
+  ['resolveballpaddle',['resolveBallPaddle',['../class_collision_manager.html#a9ccf3d79afe64b23a5f69c2c0305e8ef',1,'CollisionManager']]],
+  ['resourcemanager',['ResourceManager',['../class_resource_manager.html',1,'']]],
+  ['right_5fcoeff',['right_coeff',['../struct_s_d_l___haptic_condition.html#a3de7f164ef88841255535387d0f100b6',1,'SDL_HapticCondition']]],
+  ['right_5fsat',['right_sat',['../struct_s_d_l___haptic_condition.html#a90427a1e0d464b4b53abc1d419c97b2e',1,'SDL_HapticCondition']]],
+  ['rw_5fseek_5fcur',['RW_SEEK_CUR',['../_s_d_l__rwops_8h.html#aba5f3b60c197def370ffa2ca1ab1348d',1,'SDL_rwops.h']]],
+  ['rw_5fseek_5fend',['RW_SEEK_END',['../_s_d_l__rwops_8h.html#a6cf141faabd1b8f2ec3c03cf76eaf553',1,'SDL_rwops.h']]],
+  ['rw_5fseek_5fset',['RW_SEEK_SET',['../_s_d_l__rwops_8h.html#ac028b032bb8230df64bc6284e04789f5',1,'SDL_rwops.h']]]
+];
